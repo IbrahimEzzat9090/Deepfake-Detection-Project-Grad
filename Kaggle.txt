@@ -1,2 +1,0 @@
-Link for dataset
-https://www.kaggle.com/datasets/unkownhihi/deepfake
